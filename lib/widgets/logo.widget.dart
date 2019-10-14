@@ -5,11 +5,11 @@ class Logo extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(children: <Widget>[
       SizedBox(
-        height: 60,
+        height: 20,
       ),
       Image.asset(
         "assets/images/aog-white.png",
-        height: 90,
+        height: 50,
       ),
       SizedBox(
         height: 10,
