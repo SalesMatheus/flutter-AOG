@@ -1,4 +1,5 @@
 # Álcool ou Gasolina 
+APP para calcular se compensar utilizar álcool ou gasolina com base no preço de ambos
 
 A new Flutter project.
 
